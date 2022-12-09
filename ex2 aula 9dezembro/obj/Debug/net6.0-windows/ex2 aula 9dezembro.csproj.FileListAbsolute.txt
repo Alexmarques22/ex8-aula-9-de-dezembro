@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\bin\Debug\net6.0-windows\ex2 aula 9dezembro.exe
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\bin\Debug\net6.0-windows\ex2 aula 9dezembro.deps.json
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\bin\Debug\net6.0-windows\ex2 aula 9dezembro.runtimeconfig.json
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\bin\Debug\net6.0-windows\ex2 aula 9dezembro.dll
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\bin\Debug\net6.0-windows\ex2 aula 9dezembro.pdb
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2_aula_9dezembro.Form1.resources
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.dll
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\refint\ex2 aula 9dezembro.dll
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.pdb
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ex2 aula 9dezembro.genruntimeconfig.cache
+C:\Users\Alex\source\repos\ex2 aula 9dezembro\obj\Debug\net6.0-windows\ref\ex2 aula 9dezembro.dll
